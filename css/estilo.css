@@ -1,4 +1,3 @@
-.barra-nav{
-  background: rgb(72, 5, 85);
-  opacity: 0.8;
+body{
+  background: url(../imagens/capa.png), url(../imagens/ruido.png);
 }
