@@ -43,6 +43,7 @@ background: rgba(0, 0, 0, 0.6);
   text-align: center;
 }
 
+/*Customização dos botões*/
 .btn-custom{
   color: white;
   border-radius: 500px;
@@ -53,6 +54,7 @@ background: rgba(0, 0, 0, 0.6);
   padding: 10px 20px;
 }
 
+/*Botão roxo*/
 .btn-roxo{
   background: #7c25f8;
 }
@@ -61,7 +63,7 @@ background: rgba(0, 0, 0, 0.6);
   background: #6207e3;
   color: white;
 }
-
+/*Botão branco*/
 .btn-branco{
   border: 2px solid white;
 }
