@@ -89,6 +89,7 @@ background: rgba(0, 0, 0, 0.6);
 #recursos{
   padding-top: 20px;
   padding-bottom: 20px;
+  color: white;
 }
 
 #recursos h2{
@@ -96,12 +97,10 @@ background: rgba(0, 0, 0, 0.6);
 }
 
 #recursos h3{
-  color: aqua;
+  color: #9bf0e1;
 }
 
-#recursos p{
-  color: white;
-}
+
 
 /*tipografia*/
 h1{
