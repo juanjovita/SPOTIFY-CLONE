@@ -1,5 +1,6 @@
 html, body, #home{
   height: 100%; /*Irá ocupar 100% da área*/
+  overflow-x: hidden; /*Esconde a barra horizontal*/
 }
 
 
@@ -100,8 +101,11 @@ background: rgba(0, 0, 0, 0.6);
   color: #9bf0e1;
 }
 
-.rotate-img {
-  transform: rotate(20deg);
+.rotacionar {
+  -ms-transform: rotate(30deg); /*IE 9*/
+  -webkit-transform: rotate(30deg); /*Chrome, Safari, Opera*/
+  transform: rotate(30deg);
+  padding-left: 80px;
 }
 
 
