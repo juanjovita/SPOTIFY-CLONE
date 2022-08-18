@@ -147,7 +147,10 @@ h3{
     -ms-transform: rotate(0deg); /*IE 9*/
     -webkit-transform: rotate(0deg); /*Chrome, Safari, Opera*/
     transform: rotate(0deg);
-    padding: 30px auto;
+    }
+
+    .iphone{
+      padding: auto;
     }
 }
 
