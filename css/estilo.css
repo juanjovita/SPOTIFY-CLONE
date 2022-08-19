@@ -73,6 +73,11 @@ background: rgba(0, 0, 0, 0.6);
   background-color: white;
   color: black;
 }
+
+.carousel-control-next, .carousel-control-prev{
+  width: 5%;
+}
+
 /*Estrutura de conteúdos*/
 #servicos{
   background: white;
@@ -175,7 +180,7 @@ h3{
     }
 
     .iphone{
-      padding: auto;
+      width: 100%;
     }
 }
 
